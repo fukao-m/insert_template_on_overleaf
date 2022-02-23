@@ -7,9 +7,9 @@ Insert LaTeX templates on Overleaf
 ## 使い方
 
 ### git clone
-'''
-https://github.com/fukao-m/overleaf_insert_template.git
-'''
+```
+git clone https://github.com/fukao-m/overleaf_insert_template.git
+```
 
 ### 拡張機能に追加
 
