@@ -22,3 +22,8 @@ git clone https://github.com/fukao-m/overleaf_insert_template.git
 1. fig または tbl と打つ．
 2. 「Ctrl + Shift + ←」を押すと，それらが選択される
 3. 「Ctrl + Shift + Enter」
+
+### 今後追加したい機能
+
+- ポップアップからテンプレの追加・変更
+- 複数の図表
