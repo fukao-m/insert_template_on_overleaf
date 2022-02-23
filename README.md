@@ -12,7 +12,7 @@ Insert LaTeX templates on Overleaf
 
 ### 拡張機能に追加
 
-chrome://extensions/ に飛び，
+chrome://extensions/ に飛び，  
 デベロッパーモードをオンにした後，「パッケージ化されていない拡張機能を読み込む」を押し，このフォルダを選択．
 
 ### Overleafでの使い方
