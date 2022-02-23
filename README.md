@@ -27,3 +27,4 @@ git clone https://github.com/fukao-m/overleaf_insert_template.git
 
 - ポップアップからテンプレの追加・変更
 - 複数の図表
+- コマンドの変更に対応
